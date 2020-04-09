@@ -117,22 +117,22 @@
     {
         "path": "/authors/nathan-leary/index.html",
         "type": "file",
-        "md5": "ea0d8875d067a94b4de3bcc83537e02b"
+        "md5": "153d009a88471fb4c1e72cc93da17c57"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "afe3a92732dd67d7fc3f6cdbaff3b0e4"
+        "md5": "4e4cb8cef14c424fabcc1445d482e597"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1360e7f7cd0326f0028d969a515de972"
+        "md5": "c1f5c6c51618e25072138892b321e950"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "73aa5c174dffdbf3f2ef394daa1c2636"
+        "md5": "b2797b2754f1efe2bf769ccc1966486a"
     },
     {
         "path": "media",
@@ -155,44 +155,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/1/Screen-Shot-2020-04-09-at-3.21.55-pm.png",
-        "type": "file",
-        "md5": "0d93f3033a54cd54a1ff672b3a1ef17a"
-    },
-    {
         "path": "media/posts/1/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-2xl.png",
-        "type": "file",
-        "md5": "e0139136c2d3fb725eade36815eebb8e"
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-lg.png",
-        "type": "file",
-        "md5": "e0139136c2d3fb725eade36815eebb8e"
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-md.png",
-        "type": "file",
-        "md5": "e0139136c2d3fb725eade36815eebb8e"
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-sm.png",
-        "type": "file",
-        "md5": "e0139136c2d3fb725eade36815eebb8e"
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-xl.png",
-        "type": "file",
-        "md5": "e0139136c2d3fb725eade36815eebb8e"
-    },
-    {
-        "path": "/media/posts/1/responsive/Screen-Shot-2020-04-09-at-3.21.55-pm-xs.png",
-        "type": "file",
-        "md5": "4afea2e4945d3e2cac65ae9a26d10f66"
     },
     {
         "path": "media/website",
@@ -207,6 +172,6 @@
     {
         "path": "this-is-a-test.html",
         "type": "file",
-        "md5": "bfa0843775cec8dd3d4aba902c554b66"
+        "md5": "df01a82eb483f77bcc0a432c96734fc3"
     }
 ]
