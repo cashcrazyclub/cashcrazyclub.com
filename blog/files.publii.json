@@ -117,22 +117,22 @@
     {
         "path": "/authors/nathan-leary/index.html",
         "type": "file",
-        "md5": "ea0d8875d067a94b4de3bcc83537e02b"
+        "md5": "7eb5b5f0bc9295d773a471768266b92f"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "afe3a92732dd67d7fc3f6cdbaff3b0e4"
+        "md5": "f1f3fc405048738ee8d81c88d44e4d24"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b6d507eb7ec3741345c4b65f214e99a6"
+        "md5": "d98151496e14fd96df504d69bdfdaf99"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "73aa5c174dffdbf3f2ef394daa1c2636"
+        "md5": "54327d64a88cd8e50def4b4aae458667"
     },
     {
         "path": "media",
@@ -205,8 +205,13 @@
         "md5": "5c25c8ff01b12bb2c37157bc7ef732ad"
     },
     {
-        "path": "this-is-a-test.html",
+        "path": "this-is-a-test",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/this-is-a-test/index.html",
         "type": "file",
-        "md5": "bfa0843775cec8dd3d4aba902c554b66"
+        "md5": "81d3fd8b744bffb14b5228818ccdad2b"
     }
 ]

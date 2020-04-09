@@ -3,7 +3,7 @@
     <title>Cash Crazy Club</title>
     <link href="/blog/feed.xml" rel="self" />
     <link href="/blog" />
-    <updated>2020-04-09T17:14:25+10:00</updated>
+    <updated>2020-04-09T17:17:45+10:00</updated>
     <author>
         <name>Nathan Leary</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Nathan Leary</name>
         </author>
-        <link href="/blog/this-is-a-test.html"/>
-        <id>/blog/this-is-a-test.html</id>
+        <link href="/blog/this-is-a-test/"/>
+        <id>/blog/this-is-a-test/</id>
 
         <updated>2020-04-09T16:34:03+10:00</updated>
             <summary>
