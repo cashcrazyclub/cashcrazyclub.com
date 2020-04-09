@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "cash crazy club",
+    "description": "",
+    "home_page_url": "/blog",
+    "feed_url": "/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nathan Leary"
+    },
+    "items": [
+        {
+            "id": "/blog/this-is-a-test.html",
+            "url": "/blog/this-is-a-test.html",
+            "title": "this is a test",
+            "author": {
+                "name": "Nathan Leary"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-09T14:39:24+10:00",
+            "date_modified": "2020-04-09T14:39:24+10:00"
+        }
+    ]
+}

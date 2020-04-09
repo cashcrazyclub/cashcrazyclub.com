@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>cash crazy club</title>
+    <link href="/blog/feed.xml" rel="self" />
+    <link href="/blog" />
+    <updated>2020-04-09T14:42:15+10:00</updated>
+    <author>
+        <name>Nathan Leary</name>
+    </author>
+    <id>/blog</id>
+
+    <entry>
+        <title>this is a test</title>
+        <author>
+            <name>Nathan Leary</name>
+        </author>
+        <link href="/blog/this-is-a-test.html"/>
+        <id>/blog/this-is-a-test.html</id>
+
+        <updated>2020-04-09T14:39:24+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
